@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Jaghanav Priyan M S K",
+      "email": "jaghanav77@gmail.com",
+      "id": "n1akucqhdt4"
+    },
+    {
+      "name": "Jaghanav",
+      "email": "jaghanav@example.com",
+      "id": "bFKwO0ZWW0U"
+    },
+    {
+      "name": "Jaghanav",
+      "email": "jaghanav@example.com",
+      "id": "2T4paLpvkz8"
+    },
+    {
+      "name": "Jaghanav",
+      "email": "jaghanav@example.com",
+      "id": "pN5NazwGC1c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
