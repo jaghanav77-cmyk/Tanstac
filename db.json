@@ -1,25 +1,29 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Jaghanav Priyan M S K",
-      "email": "jaghanav77@gmail.com",
-      "id": "n1akucqhdt4"
+      "email": "jaghanav77@gmail.com"
     },
     {
+      "id": 2,
       "name": "Jaghanav",
-      "email": "jaghanav@example.com",
-      "id": "bFKwO0ZWW0U"
+      "email": "jaghanav@example.com"
     },
     {
-      "name": "Jaghanav",
-      "email": "jaghanav@example.com",
-      "id": "2T4paLpvkz8"
+      "id": 3,
+      "name": "Arun Kumar",
+      "email": "arun@example.com"
     },
     {
-      "name": "Jaghanav",
-      "email": "jaghanav@example.com",
-      "id": "pN5NazwGC1c"
+      "id": 4,
+      "name": "Priya",
+      "email": "priya@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Rahul",
+      "email": "rahul@example.com"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
